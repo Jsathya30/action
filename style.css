@@ -1,0 +1,49 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+.container{
+	width:85%;
+	margin:auto;
+	background-color:rgba(0,0,0,0.5);
+	
+	
+}
+#banner-sec{
+	height:50vh;
+	background-image:url(images/bgpic.jpg);
+	background-position:center;
+	background-attachment:fixed;
+	background-size:cover;
+    
+}
+h1{
+	color:#FFFFFF;
+	text-transform:capitalize;
+	padding-bottom:10px;
+}
+p{
+	color:#FFFFFF;
+	font-size:20px;
+	padding-bottom:20px;
+	font-weight:bold;
+}
+.banner-cont{
+	text-align:center;
+	padding-top:100px;
+}
+.btn{
+	width:20%;
+	margin:auto;
+	border:2px solid #FFFFFF;
+	padding:5px 30px;
+	font-size:1em;
+	text-align:center;
+	display:block;
+	/* margin-left:500px; */
+	font-weight:bold;
+	background:none;
+	color:#FFFFFF;
+	
+}
